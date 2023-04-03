@@ -49,6 +49,12 @@
         <li>
           <a href="#responsividade">Responsividade</a>
         </li>
+        <li>
+          <a href="#templates">Templates</a>
+        </li>
+        <li>
+          <a href="#hospedagem">Hospedagem</a>
+        </li>
       </ul>
     </li>
     <li><a href="#licença">Licença</a></li>
@@ -263,6 +269,20 @@ transparente
 
 
 <hr>
+
+## Hospedagem
+
+[000webhost](https://br.000webhost.com/) - Hospedagem gratuita com suporte para PHP e MySQL
+
+[Firebase Hosting](https://firebase.google.com/products/hosting?hl=pt-br) - Hospedagem de até 10GB de armazenamento e 10GB de transferência por mês gratuitamente
+
+[GitHub Pages](https://pages.github.com/) - Hospedagem de sites estáticos, não suporta linguagens back end
+
+[Infinity Free](https://www.infinityfree.net/) - Hospedagem gratuita com suporte para PHP e MySQL e sem anúncios
+
+[Render](https://render.com/) - Hospedagem que suporta backend, possui certificado gratuito e proteção contra DDoS
+
+[Vercel](https://vercel.com/dashboard) - Hospedagem de sites estáticos, não suporta linguagens de back end
 
 
 <!-- LICENSE -->
