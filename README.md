@@ -25,7 +25,7 @@
   </p>
 </p>
 
-[![Preview][product-banner]](http://webresources.epizy.com/)<hr>
+[![Preview][product-banner]](./RECURSOS.md)<hr>
 
 
 <!-- TABLE OF CONTENTS -->
