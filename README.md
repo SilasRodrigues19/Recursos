@@ -16,9 +16,9 @@
 
   <p align="center">
     <a href="http://webresources.epizy.com/">Acessar</a>
-    &#124;	
+    &#124;
     <a href="https://github.com/SilasRodrigues19/Recursos/issues/new?template=suggesting.md&title=T%C3%ADtulo%20da%20sua%20sugest%C3%A3o">Sugerir</a>
-    &#124;	
+    &#124;
     <a href="./CONTRIBUTING.md">Contribuir</a>
     &#124;
     <a href="./CONTRIBUTING.md">Conduta</a>
