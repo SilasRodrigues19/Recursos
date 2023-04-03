@@ -46,6 +46,9 @@
         <li>
           <a href="#paleta-de-cores-e-gradientes">Paleta de cores e Gradientes</a>
         </li>
+        <li>
+          <a href="#responsividade">Responsividade</a>
+        </li>
       </ul>
     </li>
     <li><a href="#licença">Licença</a></li>
@@ -74,6 +77,7 @@
 <hr>
 
 ## Ilustrações
+
 [Blush Design](https://blush.design/pt) - Ilustrações customizáveis 
 
 [BURST](https://burst.shopify.com/) - Fotos gratuitas livres de direitos
@@ -122,6 +126,7 @@ transparente
 <hr>
 
 ## Ícones e Material UI
+
 [BoxIcons](https://boxicons.com/) - Biblioteca de ícones SVG
 
 [Components AI](https://components.ai/theme) - Theme builder, color scale, color system e gradients
@@ -148,6 +153,7 @@ transparente
 <hr>
 
 ## Utilitários para media
+
 [AnyConv](https://anyconv.com/pt/) - Conversor de imagem, documentos, vídeos e áudios
 
 [Baseline](https://baseline.is/tools/background-remover/) - Remova background de imagens
@@ -225,6 +231,25 @@ transparente
 [uiGradients](https://uigradients.com/#Jaipur) - Backgrounds gradiente com exportação em .jpg
 
 [WebGradients](https://webgradients.com/) - Coleção de mais de 180 backgrounds gradientes dos mais variados
+
+<hr>
+
+## Responsividade
+
+[Am I Responsive](https://ui.dev/amiresponsive) - Veja como está a responsividade do seu site de uma forma dinâmica
+
+[Angry Tools](https://angrytools.com/css/mediaquery/) - Ferramenta para testar todas as propriedades de media query
+
+[Browserling](https://www.browserling.com/) - Teste a compatibilidade do seu site escolhendo um SO específico, navegador específico e até mesmo a versão
+
+[CSS3 Media Queries](http://cssmediaqueries.com/overview.html) - Cheque quais tipos de media seu navegador suporta
+
+[Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb) - Extensão de navegador para verificar a responsividade do seu site
+
+[Responsively App](https://responsively.app/) - Programa para baixar e executar o site para testar a responsividade
+
+[Simple CSS](https://simplecss.eu/) - Gere media queries para qualquer tipo e tamanho de dispositivo
+
 
 
 <hr>
