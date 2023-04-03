@@ -15,7 +15,7 @@
   <h3 align="center" id="Recursos">Recursos</h3>
 
   <p align="center">
-    <a href="http://webresources.epizy.com/">Acessar</a>
+    <a href="./RECURSOS.md">Acessar</a>
     &#124;	
     <a href="https://github.com/SilasRodrigues19/Recursos/issues/new?template=suggesting.md&title=T%C3%ADtulo%20da%20sua%20sugest%C3%A3o">Sugerir</a>
     &#124;	
