@@ -27,7 +27,6 @@
 
 [![Preview][product-banner]](./README.md)<hr>
 
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Menu de conteúdos</summary>
@@ -89,7 +88,6 @@ https://github.com/SilasRodrigues19/Recursos/forks
 4. Abra uma Pull Request e aguarde que seja revisado e aprovado.
 
 A equipe responsável pelo repositório irá revisar e comentar sobre as modificações enviadas. Se necessário, podem ser solicitadas modificações adicionais ou correções de problemas encontrados.
-
 
 <!-- LICENSE -->
 
