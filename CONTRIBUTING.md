@@ -49,6 +49,22 @@
 
 Agradecemos seu interesse em contribuir para o repositório Recursos! Este guia fornece informações sobre como você pode contribuir para este projeto.
 
+Tente adicionar o link sempre seguindo a ordem alfabética e verifique se o link já não existe com um nome diferente e siga o padrão abaixo para adicionar um link:
+
+```md
+[Nome](https://urlDoLink.com) - Uma breve descrição sobre link
+
+Exemplo:
+[Recursos](https://github.com/SilasRodrigues19/Recursos) - Repositório com links úteis 
+
+```
+
+Esse exemplo acima, será exibido da seguinte forma: <br>
+[Recursos](https://github.com/SilasRodrigues19/Recursos) - Repositório com links úteis 
+
+###### Note que o texto colocado entre parênteses () se torna o link do texto colocado entre as chaves []
+
+
 ### Fork do Repositório
 
 Antes de começar a contribuir, você deve fazer um fork deste repositório para sua conta no GitHub. Para isso, basta clicar no botão "Fork" localizado no canto superior direito da página do repositório.
@@ -64,6 +80,10 @@ Tipo: Descrição breve e em tempo presente do que foi feito
 |     +-> Descrição breve do que foi feito
 |
 +-------> Tipo do commit: feat, refactor, fix, docs, style
+
+exemplo:
+
+feat: adiciona link de site de ilustração
 ```
 
 Os tipos de commit usados no projeto são:
