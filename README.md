@@ -21,7 +21,7 @@
     &#124;	
     <a href="./CONTRIBUTING.md">Contribuir</a>
     &#124;
-    <a href="./CONTRIBUTING.md">Conduta</a>
+    <a href="./CODE_OF_CONDUCT.md">Conduta</a>
   </p>
 </p>
 
@@ -130,4 +130,4 @@ Project Link: [https://github.com/SilasRodrigues19/Recursos](https://github.com/
 [product-banner]: ./assets/img/Banner.png
 
 <br><hr>
-[🔼 Back to top](#Recursos)
+[🔼 Retornar ao topo](#Recursos)

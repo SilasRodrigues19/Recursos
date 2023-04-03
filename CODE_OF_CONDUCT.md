@@ -95,4 +95,4 @@ Project Link: [https://github.com/SilasRodrigues19/Recursos](https://github.com/
 [product-banner]: ./assets/img/Banner.png
 
 <br><hr>
-[🔼 Back to top](#RecursosConduta)
+[🔼 Retornar ao topo](#RecursosConduta)
