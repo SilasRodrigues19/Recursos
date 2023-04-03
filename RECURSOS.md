@@ -43,6 +43,9 @@
         <li>
           <a href="#utilitários-para-media">Utilitários para media</a>
         </li>
+        <li>
+          <a href="#paleta-de-cores-e-gradientes">Paleta de cores e Gradientes</a>
+        </li>
       </ul>
     </li>
     <li><a href="#licença">Licença</a></li>
@@ -180,6 +183,48 @@ transparente
 [Vecta](https://vecta.io/nano) - Comprima e otimize seus arquivos SVG
 
 [ZMO](https://baseline.is/tools/background-remover/) - Remova objetos de imagens
+
+<hr>
+
+## Paleta de cores e Gradientes
+
+[Color Hunt](https://colorhunt.co/) - Paleta de cores selecionadas para boas UI's
+
+[Color Palette Generator](https://colors.muz.li/) - Paleta de cores com exportação em SVG e criação de paleta através de imagem
+
+[Color Scale](https://hihayk.github.io/scale/#4/6/35/46/-0/0/20/14/2DC7ED/45/199/237/white) - Ferramenta para escalar cores (muito útil para determinar peso tipográfico)
+
+[colorpalettes.earth](https://colorpalettes.earth/) - Paleta de cores inspirada em paisagens da natureza
+
+[colors.lol](https://colors.lol/) - Paleta de cores com a regra 60-30-10 de UI Design
+
+[ColorSpace](https://mycolor.space/) - Gere uma paleta de cores a partir de uma cor inicial informada
+
+[Coolors](https://coolors.co/) - Paleta de cores com diversos tipos de exportação, integração com Figma e extensão para navegador
+
+[CSS Gradient](https://cssgradient.io/) - Background gradiente com customização de ângulo e possibilidade de obter cores de imagem
+
+[Curated Color Palette](https://www.colorion.co/) - Paleta de cores selecionada para boas UI's
+
+[Data Viz Color Palette](https://www.learnui.design/tools/data-color-picker.html) - Paletas de cores em contexto, recomendadas para usar em gráficos
+
+[Eggradients](https://www.eggradients.com/) - Background gradients
+
+[Flat UI Colors](https://flatuicolors.com/) - Mais de 13 paletas de cores para utilizar em seu projeto
+
+[Gradient Hunt](https://gradienthunt.com/) - Projeto open-source com cores gradientes e extensão pro Google Chrome
+
+[Happy Hues](https://www.happyhues.co/) - Paleta de cores selecionadas em contexto
+
+[Hex Colors](https://hexcolor.co/gradient-generator) - Monte backgrounds gradientes de no máximo 7 cores diferentes
+
+[Radix UI Colors](https://www.radix-ui.com/docs/colors/palette-composition/the-scales) - Paleta de cores com variações
+
+[Randoma11y](https://randoma11y.com/) - Gere 2 cores com um excelente contraste
+
+[uiGradients](https://uigradients.com/#Jaipur) - Backgrounds gradiente com exportação em .jpg
+
+[WebGradients](https://webgradients.com/) - Coleção de mais de 180 backgrounds gradientes dos mais variados
 
 
 <hr>
