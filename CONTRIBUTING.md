@@ -8,27 +8,29 @@
 <br />
 <samp>
 <p align="center">
-  <a href="https://github.com/SilasRodrigues19/TicTacToe">
+  <a href="https://github.com/SilasRodrigues19/Recursos">
     <img src="./assets/img/logo.svg" alt="Logo" width="100" height="80">
   </a>
 
-  <h3 align="center">Recursos | Como contribuir</h3>
+  <h3 align="center" id="RecursosContribuir">Recursos | Como contribuir</h3>
 
   <p align="center">
+    <a href="./README.md">Início</a>
+    &#124;
     <a href="http://webresources.epizy.com/">Acessar</a>
     &#124;	
-    <a href="https://github.com/SilasRodrigues19/TicTacToe/issues">Sugerir</a>
+    <a href="https://github.com/SilasRodrigues19/Recursos/issues/new?template=suggesting.md&title=T%C3%ADtulo%20da%20sua%20sugest%C3%A3o">Sugerir</a>
     &#124;	
-    <a href="https://github.com/SilasRodrigues19/TicTacToe/issues">Contribuir</a>
+    <a href="./CONTRIBUTING.md">Conduta</a>
   </p>
 </p>
 
-[![Preview][product-banner]](http://webresources.epizy.com/)<hr>
+[![Preview][product-banner]](./README.md)<hr>
 
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Menu de conteúdos</summary>
   <ol>
     <li>
       <a href="#guia-de-contribuição">Guia de contribuição</a>
@@ -38,8 +40,8 @@
         <li><a href="#abra-uma-pull-request">Abra um Pull Request</a></li>
       </ul>
     </li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#licença">Licença</a></li>
+    <li><a href="#contato">Contato</a></li>
   </ol>
 </details>
 
@@ -61,65 +63,63 @@ Tipo: Descrição breve e em tempo presente do que foi feito
 |     |
 |     +-> Descrição breve do que foi feito
 |
-+-------> Tipo do commit: test, feat, fix, chore, docs, refactor, style, ci e perf
++-------> Tipo do commit: feat, refactor, fix, docs, style
 ```
 
 Os tipos de commit usados no projeto são:
 
-- `test`: Adição ou modificação de testes
-- `feat`: Adição de uma nova funcionalidade
-- `fix`: Correção de um bug
-- `chore`: Atualização de tarefas de build ou configuração de ferramentas
-- `docs`: Modificação de arquivos de documentação
-- `refactor`: Modificação de código para melhorar sua qualidade ou organização
-- `style`: Modificação de estilos, formatação de código, etc.
-- `ci`: Atualização de arquivos e configurações relacionadas a integração contínua
-- `perf`: Melhoria de desempenho
+- `feat`: Adicionar um novo link
+- `refactor`: Editar um link já adicionado
+- `fix`: Corrigir algo que esteja errado
+- `docs`: Modificar arquivos de documentação
+- `style`: Mover algum link para reordenar alfabeticamente ou algum outro problema de padronização
 
 ### Abra uma Pull Request
 
 Após fazer as modificações em seu fork do repositório, você pode enviar um Pull Request para este repositório seguindo as seguintes etapas:
 
-1. Certifique-se de que todas as modificações foram adequadamente documentadas nos commits.
-2. Abra a página do seu fork do repositório no GitHub.
-3. Clique no botão "New Pull Request".
-4. Selecione o branch de sua conta que contém as modificações que deseja enviar.
-5. Selecione o branch do repositório Recursos que você deseja enviar as modificações.
-6. Preencha o formulário do Pull Request, descrevendo as modificações feitas e qualquer outra informação relevante.
-7. Aguarde a revisão e aprovação do Pull Request.
+1. Faça um Fork desse repositório no link abaixo:
+
+```sh
+https://github.com/SilasRodrigues19/Recursos/forks
+```
+
+2. Adicione suas alterações seguindo as instruções desse guia.
+3. Faça seu commit seguindo a padronização explicada na seção [commits-semânticos](#commits-semânticos)
+4. Abra uma Pull Request e aguarde que seja revisado e aprovado.
 
 A equipe responsável pelo repositório irá revisar e comentar sobre as modificações enviadas. Se necessário, podem ser solicitadas modificações adicionais ou correções de problemas encontrados.
 
 
 <!-- LICENSE -->
 
-## License
+## Licença
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Esse repositório é licenciado através da MIT License. Consulte [`LICENSE`](./LICENSE) para mais informações.
 
 <!-- CONTACT -->
 
-## Contact
+## Contato
 
 Silas Rodrigues - [@jinuye1](https://twitter.com/jinuye1) - silasrodrigues.fatec@gmail.com
 
-Project Link: [https://github.com/SilasRodrigues19/TicTacToe](https://github.com/SilasRodrigues19/TicTacToe) <br>
+Project Link: [https://github.com/SilasRodrigues19/Recursos](https://github.com/SilasRodrigues19/Recursos) <br>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/SilasRodrigues19/TicTacToe.svg?style=for-the-badge
-[contributors-url]: https://github.com/SilasRodrigues19/TicTacToe/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SilasRodrigues19/TicTacToe.svg?style=for-the-badge
-[forks-url]: https://github.com/SilasRodrigues19/TicTacToe/network/members
-[stars-shield]: https://img.shields.io/github/stars/SilasRodrigues19/TicTacToe.svg?style=for-the-badge
-[stars-url]: https://github.com/SilasRodrigues19/TicTacToe/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SilasRodrigues19/TicTacToe.svg?style=for-the-badge
-[issues-url]: https://github.com/SilasRodrigues19/TicTacToe/issues
-[license-shield]: https://img.shields.io/github/license/SilasRodrigues19/TicTacToe.svg?style=for-the-badge
-[license-url]: https://github.com/SilasRodrigues19/TicTacToe/blob/master/LICENSE
-[license-url]: https://github.com/SilasRodrigues19/TicTacToe/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/SilasRodrigues19/Recursos.svg?style=for-the-badge
+[contributors-url]: https://github.com/SilasRodrigues19/Recursos/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SilasRodrigues19/Recursos.svg?style=for-the-badge
+[forks-url]: https://github.com/SilasRodrigues19/Recursos/network/members
+[stars-shield]: https://img.shields.io/github/stars/SilasRodrigues19/Recursos.svg?style=for-the-badge
+[stars-url]: https://github.com/SilasRodrigues19/Recursos/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SilasRodrigues19/Recursos.svg?style=for-the-badge
+[issues-url]: https://github.com/SilasRodrigues19/Recursos/issues
+[license-shield]: https://img.shields.io/github/license/SilasRodrigues19/Recursos.svg?style=for-the-badge
+[license-url]: https://github.com/SilasRodrigues19/Recursos/blob/master/LICENSE
+[license-url]: https://github.com/SilasRodrigues19/Recursos/blob/master/LICENSE.txt
 [product-banner]: ./assets/img/Banner.png
 
 <br><hr>
-[🔼 Back to top](#Tic-Tac-Toe)
+[🔼 Back to top](#RecursosContribuir)

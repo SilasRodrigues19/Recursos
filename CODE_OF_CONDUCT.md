@@ -8,22 +8,41 @@
 <br />
 <samp>
 <p align="center">
-  <a href="https://github.com/SilasRodrigues19/TicTacToe">
+  <a href="https://github.com/SilasRodrigues19/Recursos">
     <img src="./assets/img/logo.svg" alt="Logo" width="100" height="80">
   </a>
 
-  <h3 align="center">Recursos | Conduta</h3>
+  <h3 align="center" id="RecursosConduta">Recursos | Conduta</h3>
 
   <p align="center">
+    <a href="./README.md">Início</a>
+    &#124;	
     <a href="http://webresources.epizy.com/">Acessar</a>
     &#124;	
-    <a href="https://github.com/SilasRodrigues19/TicTacToe/issues">Sugerir</a>
+    <a href="https://github.com/SilasRodrigues19/Recursos/issues/new?template=suggesting.md&title=T%C3%ADtulo%20da%20sua%20sugest%C3%A3o">Sugerir</a>
     &#124;	
-    <a href="https://github.com/SilasRodrigues19/TicTacToe/issues">Contribuir</a>
+    <a href="./CONTRIBUTING.md">Contribuir</a>
   </p>
 </p>
 
-[![Preview][product-banner]](http://webresources.epizy.com/)<hr>
+[![Preview][product-banner]](./README.md)<hr>
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Menu de conteúdos</summary>
+  <ol>
+    <li>
+      <a href="#código-de-conduta">Código de Conduta</a>
+      <ul>
+        <li><a href="#fork-do-repositório">Fork do repositório</a></li>
+        <li><a href="#commits-semânticos">Commits Semânticos</a></li>
+        <li><a href="#abra-uma-pull-request">Abra um Pull Request</a></li>
+      </ul>
+    </li>
+    <li><a href="#licença">Licença</a></li>
+    <li><a href="#contato">Contato</a></li>
+  </ol>
+</details>
 
 
 <!-- CODE OF CONDUCT -->
@@ -45,25 +64,35 @@ Este código de conduta é baseado no [Código de Conduta do Contributor Covenan
 
 <hr>
 
+<!-- LICENSE -->
+
+## Licença
+
+Esse repositório é licenciado através da MIT License. Consulte [`LICENSE`](./LICENSE) para mais informações.
+
+<!-- CONTACT -->
+
+## Contato
+
 Silas Rodrigues - [@jinuye1](https://twitter.com/jinuye1) - silasrodrigues.fatec@gmail.com
 
-Project Link: [https://github.com/SilasRodrigues19/TicTacToe](https://github.com/SilasRodrigues19/TicTacToe) <br>
+Project Link: [https://github.com/SilasRodrigues19/Recursos](https://github.com/SilasRodrigues19/Recursos) <br>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/SilasRodrigues19/TicTacToe.svg?style=for-the-badge
-[contributors-url]: https://github.com/SilasRodrigues19/TicTacToe/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SilasRodrigues19/TicTacToe.svg?style=for-the-badge
-[forks-url]: https://github.com/SilasRodrigues19/TicTacToe/network/members
-[stars-shield]: https://img.shields.io/github/stars/SilasRodrigues19/TicTacToe.svg?style=for-the-badge
-[stars-url]: https://github.com/SilasRodrigues19/TicTacToe/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SilasRodrigues19/TicTacToe.svg?style=for-the-badge
-[issues-url]: https://github.com/SilasRodrigues19/TicTacToe/issues
-[license-shield]: https://img.shields.io/github/license/SilasRodrigues19/TicTacToe.svg?style=for-the-badge
-[license-url]: https://github.com/SilasRodrigues19/TicTacToe/blob/master/LICENSE
-[license-url]: https://github.com/SilasRodrigues19/TicTacToe/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/SilasRodrigues19/Recursos.svg?style=for-the-badge
+[contributors-url]: https://github.com/SilasRodrigues19/Recursos/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SilasRodrigues19/Recursos.svg?style=for-the-badge
+[forks-url]: https://github.com/SilasRodrigues19/Recursos/network/members
+[stars-shield]: https://img.shields.io/github/stars/SilasRodrigues19/Recursos.svg?style=for-the-badge
+[stars-url]: https://github.com/SilasRodrigues19/Recursos/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SilasRodrigues19/Recursos.svg?style=for-the-badge
+[issues-url]: https://github.com/SilasRodrigues19/Recursos/issues
+[license-shield]: https://img.shields.io/github/license/SilasRodrigues19/Recursos.svg?style=for-the-badge
+[license-url]: https://github.com/SilasRodrigues19/Recursos/blob/master/LICENSE
+[license-url]: https://github.com/SilasRodrigues19/Recursos/blob/master/LICENSE.txt
 [product-banner]: ./assets/img/Banner.png
 
 <br><hr>
-[🔼 Back to top](#Tic-Tac-Toe)
+[🔼 Back to top](#RecursosConduta)
