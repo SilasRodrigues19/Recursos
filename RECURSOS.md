@@ -37,6 +37,12 @@
         <li>
           <a href="#ilustrações">Ilustrações</a>
         </li>
+        <li>
+          <a href="#ícones-e-material-ui">Ícones e Material UI</a>
+        </li>
+        <li>
+          <a href="#utilitários-para-media">Utilitários para media</a>
+        </li>
       </ul>
     </li>
     <li><a href="#licença">Licença</a></li>
@@ -109,6 +115,71 @@ transparente
 [unDraw](https://undraw.co/) - Ilustrações modernas com a possibilidade de adaptá-las a identidade visual do seu site
 
 [Unsplash](https://unsplash.com/pt-br) - Repositório de imagens para uso livre
+
+<hr>
+
+## Ícones e Material UI
+[BoxIcons](https://boxicons.com/) - Biblioteca de ícones SVG
+
+[Components AI](https://components.ai/theme) - Theme builder, color scale, color system e gradients
+
+[Evil Icons](https://evil-icons.io/) - Pacote de ícones SVG com suporte para Rails, Sprockerts, Node, Gulp, Grunt e CDN
+
+[Free Line Icons](https://lineicons.com/) - Mais de 5.000 ícones SVG em formato de linha
+
+[Freebies](https://freebiesui.com/) - Diversos UI kits para Figma, Adobe XD, Sketch e em PSD
+
+[Icon Duck](https://iconduck.com/) - Aproximadamente 120 mil ícones e ilustrações de código aberto e gratuitos
+
+[Iconify](https://iconify.design/) - Biblioteca que agrupa outras bibliotecas de ícones em um só lugar
+
+[Simple Icons](https://simpleicons.org/) - Ícones SVG gratuitos para marcas populares
+
+[SNOWEB](https://www.snoweb-svg.com/) - Biblioteca de ícones SVG
+
+[Vector Mockups](https://www.pixsellz.io/vector-mockups-library) - Biblioteca de mockups para Figma
+
+[Worldvectorlogo](https://worldvectorlogo.com/) - Logos SVG de marcas famosas
+
+
+<hr>
+
+## Utilitários para media
+[AnyConv](https://anyconv.com/pt/) - Conversor de imagem, documentos, vídeos e áudios
+
+[Baseline](https://baseline.is/tools/background-remover/) - Remova background de imagens
+
+[CapCut](https://www.capcut.com/pt-br/) - Editor de vídeos gratuito e online
+
+[Cleanup Pictures](https://cleanup.pictures/) - Remova objetos de imagens
+
+[Cloudinary](https://cloudinary.com/) - Otimize seus vídeos e imagens, aplique filtros, entre outros
+
+[Edit Photo](https://edit.photo/) - Editor de imagens online gratuito
+
+[Erase BG](https://edit.photo/) - Remova fundo de imagens
+
+[EZGIF](https://ezgif.com/) - Diversos utilitários para imagens, gifs e vídeos
+
+[Imagator](https://imagator.co/) - Comprima, converta, edite e redimencione imagens online
+
+[Image Color Picker](https://imagecolorpicker.com/) - Obtenha a paleta de cores presente na imagem desejada
+
+[Magic Eraser](https://magicstudio.com/pt/magiceraser) - Remova objetos de imagens
+
+[Pyka](https://pika.style/) - Gere screenshots bonitas para postagem em mídias sociais
+
+[PROMO](https://promo.com/tools/image-resizer/) - Redimencione imagens mantendo a proporção
+
+[Remove BG](https://www.remove.bg/pt-br) - Remova fundo de imagens
+
+[SVGOMG](https://jakearchibald.github.io/svgomg/) - Otimize seu SVG online
+
+[Trace](https://www.stickermule.com/br/trace) - Remova fundo de imagens
+
+[Vecta](https://vecta.io/nano) - Comprima e otimize seus arquivos SVG
+
+[ZMO](https://baseline.is/tools/background-remover/) - Remova objetos de imagens
 
 
 <hr>
