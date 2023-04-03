@@ -251,6 +251,16 @@ transparente
 [Simple CSS](https://simplecss.eu/) - Gere media queries para qualquer tipo e tamanho de dispositivo
 
 
+<hr>
+
+## Templates
+
+[CSS Author](https://cssauthor.com/) - Diversos templates, incluindo recursos para Figma e Adobe XD
+
+[Free CSS](https://www.free-css.com/) - Coleção de templates e layouts CSS
+
+[UIDeck](https://uideck.com/) - Landing pages, templates e UI kits
+
 
 <hr>
 
