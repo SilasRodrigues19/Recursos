@@ -15,7 +15,7 @@
   <h3 align="center" id="Recursos">Recursos</h3>
 
   <p align="center">
-    <a href="./RECURSOS.md">Acessar</a>
+    <a href="./resources/README.md">Acessar</a>
     &#124;	
     <a href="https://github.com/SilasRodrigues19/Recursos/issues/new?template=suggesting.md&title=T%C3%ADtulo%20da%20sua%20sugest%C3%A3o">Sugerir</a>
     &#124;	
@@ -25,7 +25,7 @@
   </p>
 </p>
 
-[![Preview][product-banner]](./RECURSOS.md)<hr>
+[![Preview][product-banner]](./resources/README.md)<hr>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -88,7 +88,7 @@ Para contribuir, basta acessar o link abaixo que tem uma página específica dan
 
 Gostaria de dar alguma sugestão de melhoria para esse repositório? Temos uma página com algumas instruções de como fazer isso. Acesse o link abaixo e fique a vontade para sugerir algo que gostaria de ver por aqui.
 
-[Acesse aqui para dar suas sugestões sobre o projeto](https://github.com/SilasRodrigues19/Recursos/issues/new?template=suggesting.md)
+[Acesse aqui para dar suas sugestões sobre o projeto](https://github.com/SilasRodrigues19/Recursos/issues/new?template=suggesting.md&title=T%C3%ADtulo%20da%20sua%20sugest%C3%A3o)
 
 <hr>
 
