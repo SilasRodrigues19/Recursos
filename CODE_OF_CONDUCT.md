@@ -16,11 +16,11 @@
 
   <p align="center">
     <a href="./README.md">Início</a>
-    &#124;	
+    &#124;
     <a href="./resources/README.md">Acessar</a>
-    &#124;	
+    &#124;
     <a href="https://github.com/SilasRodrigues19/Recursos/issues/new?template=suggesting.md&title=T%C3%ADtulo%20da%20sua%20sugest%C3%A3o">Sugerir</a>
-    &#124;	
+    &#124;
     <a href="./CONTRIBUTING.md">Contribuir</a>
   </p>
 </p>
