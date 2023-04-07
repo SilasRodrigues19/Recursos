@@ -9,7 +9,7 @@
 <samp>
 <p align="center">
   <a href="https://github.com/SilasRodrigues19/Recursos">
-    <img src="./assets/img/logo.svg" alt="Logo" width="100" height="80">
+    <img src="../assets/img/logo.svg" alt="Logo" width="100" height="80">
   </a>
 
   <h3 align="center" id="Recursos">Recursos</h3>
@@ -17,9 +17,9 @@
   <p align="center">
     <a href="https://github.com/SilasRodrigues19/Recursos/issues/new?template=suggesting.md&title=T%C3%ADtulo%20da%20sua%20sugest%C3%A3o">Sugerir</a>
     &#124;	
-    <a href="./CONTRIBUTING.md">Contribuir</a>
+    <a href="../CONTRIBUTING.md">Contribuir</a>
     &#124;
-    <a href="./CODE_OF_CONDUCT.md">Conduta</a>
+    <a href="../CODE_OF_CONDUCT.md">Conduta</a>
   </p>
 </p>
 

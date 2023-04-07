@@ -17,11 +17,11 @@
   <p align="center">
     <a href="./README.md">Início</a>
     &#124;
-    <a href="http://webresources.epizy.com/">Site</a>
+    <a href="./resources/README.md">Acessar</a>
     &#124;	
     <a href="https://github.com/SilasRodrigues19/Recursos/issues/new?template=suggesting.md&title=T%C3%ADtulo%20da%20sua%20sugest%C3%A3o">Sugerir</a>
     &#124;	
-    <a href="./CONTRIBUTING.md">Conduta</a>
+    <a href="./CODE_OF_CONDUCT.md">Conduta</a>
   </p>
 </p>
 
