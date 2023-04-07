@@ -44,8 +44,8 @@
   </ol>
 </details>
 
-
 <!-- CODE OF CONDUCT -->
+
 ## Código de Conduta
 
 Bem-vindo(a) ao nosso repositório no GitHub! Para garantir um ambiente colaborativo e respeitoso, temos algumas diretrizes de conduta que devem ser seguidas por todos os participantes:

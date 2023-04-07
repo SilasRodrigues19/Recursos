@@ -27,7 +27,6 @@
 
 [![Preview][product-banner]](./resources/README.md)<hr>
 
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Menu de conteúdos</summary>
@@ -60,7 +59,6 @@
 
 Este é um repositório para reunir links úteis relacionados a frontend. Aqui você encontrará recursos de aprendizado, ferramentas, bibliotecas, frameworks e outros materiais que podem ajudar a melhorar suas habilidades como desenvolvedor(a) frontend.
 
-
 ### Site do repositório
 
 Existe um site que tem o mesmo conteúdo que existe aqui nesse repositório, talvez não esteja 100% atualizado mas em algum momento vai estar.
@@ -72,7 +70,6 @@ Fique a vontade para acessar o repositório do site que contém o código fonte 
 [Repositório do site](https://github.com/SilasRodrigues19/WebResources)
 
 [Link do site](http://webresources.epizy.com/)
-
 
 <!-- HOW TO CONTRIBUTE -->
 
@@ -97,7 +94,6 @@ Gostaria de dar alguma sugestão de melhoria para esse repositório? Temos uma p
 Temos algumas regras bem básicas para manter um ambiente respeitoso entre os participantes desse repositório, acesse o link abaixo para ver com detalhes.
 
 [Acesse aqui para ler o nosso código de conduta](./CODE_OF_CONDUCT.md)
-
 
 <!-- LICENSE -->
 

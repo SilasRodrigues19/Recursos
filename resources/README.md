@@ -23,7 +23,6 @@
   </p>
 </p>
 
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Menu de conteúdos</summary>
@@ -84,7 +83,7 @@
 
 ## Ilustrações
 
-[Blush Design](https://blush.design/pt) - Ilustrações customizáveis 
+[Blush Design](https://blush.design/pt) - Ilustrações customizáveis
 
 [BURST](https://burst.shopify.com/) - Fotos gratuitas livres de direitos
 
@@ -94,7 +93,7 @@
 
 [Freepik](https://br.freepik.com/) - Repositório com imagens em diversos formatos, possui filtro para imagens com uso livre
 
-[HiClipart](https://www.hiclipart.com/) - Banco de imagens com fundo 
+[HiClipart](https://www.hiclipart.com/) - Banco de imagens com fundo
 transparente
 
 [Humaaans](https://www.humaaans.com/) - Coleção de ilustrações
@@ -154,7 +153,6 @@ transparente
 [Vector Mockups](https://www.pixsellz.io/vector-mockups-library) - Biblioteca de mockups para Figma
 
 [Worldvectorlogo](https://worldvectorlogo.com/) - Logos SVG de marcas famosas
-
 
 <hr>
 
@@ -256,7 +254,6 @@ transparente
 
 [Simple CSS](https://simplecss.eu/) - Gere media queries para qualquer tipo e tamanho de dispositivo
 
-
 <hr>
 
 ## Templates
@@ -266,7 +263,6 @@ transparente
 [Free CSS](https://www.free-css.com/) - Coleção de templates e layouts CSS
 
 [UIDeck](https://uideck.com/) - Landing pages, templates e UI kits
-
 
 <hr>
 
@@ -283,7 +279,6 @@ transparente
 [Render](https://render.com/) - Hospedagem que suporta backend, possui certificado gratuito e proteção contra DDoS
 
 [Vercel](https://vercel.com/dashboard) - Hospedagem de sites estáticos, não suporta linguagens de back end
-
 
 <!-- LICENSE -->
 

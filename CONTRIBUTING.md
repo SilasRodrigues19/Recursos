@@ -27,7 +27,6 @@
 
 [![Preview][product-banner]](./README.md)<hr>
 
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Menu de conteúdos</summary>
@@ -55,15 +54,13 @@ Tente adicionar o link sempre seguindo a ordem alfabética e verifique se o link
 [Nome](https://urlDoLink.com) - Uma breve descrição sobre link
 
 Exemplo:
-[Recursos](https://github.com/SilasRodrigues19/Recursos) - Repositório com links úteis 
-
+[Recursos](https://github.com/SilasRodrigues19/Recursos) - Repositório com links úteis
 ```
 
 Esse exemplo acima, será exibido da seguinte forma: <br>
-[Recursos](https://github.com/SilasRodrigues19/Recursos) - Repositório com links úteis 
+[Recursos](https://github.com/SilasRodrigues19/Recursos) - Repositório com links úteis
 
 ###### Note que o texto colocado entre parênteses () se torna o link do texto colocado entre as chaves []
-
 
 ### Fork do Repositório
 
@@ -109,7 +106,6 @@ https://github.com/SilasRodrigues19/Recursos/forks
 4. Abra uma Pull Request e aguarde que seja revisado e aprovado.
 
 A equipe responsável pelo repositório irá revisar e comentar sobre as modificações enviadas. Se necessário, podem ser solicitadas modificações adicionais ou correções de problemas encontrados.
-
 
 <!-- LICENSE -->
 
