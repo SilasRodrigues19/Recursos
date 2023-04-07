@@ -55,6 +55,12 @@
         <li>
           <a href="#hospedagem">Hospedagem</a>
         </li>
+        <li>
+          <a href="#geradores-e-trechos-de-códigos-prontos">Geradores e trechos de códigos prontos</a>
+        </li>
+        <li>
+          <a href="#jogos">Jogos</a>
+        </li>
       </ul>
     </li>
     <li><a href="#licença">Licença</a></li>
@@ -286,7 +292,7 @@ transparente
 
 <hr>
 
-## Geradores / Trechos de códigos prontos
+## Geradores e trechos de códigos prontos
 
 [30 Seconds of Code](https://www.30secondsofcode.org/) - Mais de 1100 trechos de código curtos para diversos tipos de necessidade
 
@@ -356,6 +362,35 @@ transparente
 
 [wweb.dev](https://wweb.dev/resources/animated-css-background-generator) - Background animados
 
+<hr>
+
+## Jogos
+
+[CheckiO](https://checkio.org/) - Resolva desafios em TypeScript ou Python
+
+[CodeCombat](https://codecombat.com/play/) - Jogos para aprender Python e JavaScript
+
+[Codewars](https://www.codewars.com/join) - Várias tarefas em diferentes linguagens para praticar
+
+[CodingGame](https://www.codingame.com/start) - Aprenda conceiros resolvendo desafios em mais de 25 linguagens
+
+[CSSBattle](https://cssbattle.dev/) - Teste suas habilidades CSS resolvendo desafios com o menor código possível
+
+[Flexbox Defende](http://www.flexboxdefense.com/) - Jogo interativo para aprender as propriedades de Flexbox
+
+[Flexbox Froggy](https://flexboxfroggy.com/#pt-br) - Jogo interativo para aprender as propriedades de FlexBox
+
+[Grid Garden](https://cssgridgarden.com/#pt-br) - Jogo interativo para aprender as propriedades de Grid Layout
+
+[jsdares](https://jsdares.com/) - Jogo open source e editável em JavaScript
+
+[JSRobot](https://lab.reaal.me/jsrobot/) - Aprende lógica de programação em JavaScript
+
+[Pixel Game](https://pixact.ly/) - Desenhe uma caixa que corresponda ao width e height informado
+
+[Screeps](https://screeps.com/) - MMO para programadores
+
+[Untrusted](https://alexnisnevich.github.io/untrusted/) - Jogo para implementar algoritmos em JavaScript
 
 <hr>
 
@@ -389,5 +424,5 @@ Project Link: [https://github.com/SilasRodrigues19/Recursos](https://github.com/
 [license-url]: https://github.com/SilasRodrigues19/Recursos/blob/master/LICENSE
 [license-url]: https://github.com/SilasRodrigues19/Recursos/blob/master/LICENSE.txt
 
-<br><hr>
+<br> <hr>
 [🔼 Retornar ao topo](#Recursos)

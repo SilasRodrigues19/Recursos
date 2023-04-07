@@ -94,5 +94,5 @@ Project Link: [https://github.com/SilasRodrigues19/Recursos](https://github.com/
 [license-url]: https://github.com/SilasRodrigues19/Recursos/blob/master/LICENSE.txt
 [product-banner]: ./assets/img/Banner.png
 
-<br><hr>
+<br> <hr>
 [🔼 Retornar ao topo](#RecursosConduta)
