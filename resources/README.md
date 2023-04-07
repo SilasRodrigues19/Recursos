@@ -284,6 +284,81 @@ transparente
 
 [Vercel](https://vercel.com/dashboard) - Hospedagem de sites estáticos, não suporta linguagens de back end
 
+<hr>
+
+## Geradores / Trechos de códigos prontos
+
+[30 Seconds of Code](https://www.30secondsofcode.org/) - Mais de 1100 trechos de código curtos para diversos tipos de necessidade
+
+[BGJar](https://bgjar.com/) - Gerador de background com padrões
+
+[Blobmaker](https://www.blobmaker.app/) - Crie shapes randomicos e exporte em .svg
+
+[CSS Generator Tool](https://cssgenerator.org/) - Gere efeitos de shadow, gradients, borders, filters, entre outros
+
+[CSS Grid Generator](https://cssgrid-generator.netlify.app/) - Playground para aprender Grid e exportar o código para utilizar
+
+[CSS Layout Generator](https://layout.bradwoods.io/) - Templates bem comuns e prontos para utilizar, em Grid e FlexBox
+
+[CSS Pixel Art Generator](https://fjolt.com/article/css-pixel-art-generator) - Ferramenta para criar pixel arts e exportar como código CSS
+
+[CSS Scan](https://getcssscan.com/css-buttons-examples) - Botões dos mais variados estilos para utilizar
+
+[Devhints](https://devhints.io/) - Coleção de cheatsheets
+
+[EnjoyCSS](https://enjoycss.com/) - Gere backgrounds, shadows, borders, transitions, transforms, shapes, entre outros
+
+[Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - Gere formatos despadronizados utilizando border-radius
+
+[Flexy Boxes](https://the-echoplex.net/flexyboxes/) - Playground para aprender Flexbox e exportar o código para utilizar
+
+[Free Frontend](https://freefrontend.com/) - Exemplos de código, tutoriais e artigos gratuitos de HTML, CSS e JavaScript (jQuery, React, Vue) 
+
+[Get Waves](https://getwaves.io/) - Gerador de backgrounds de waves com exportação em .svg
+
+[Glassmorphism](https://ui.glass/generator/) - Gerador de estilos com efeito de vidro
+
+[Grid Malven](https://grid.malven.co/) - Aprenda sobre as propriedades de CSS Grid através de exemplos visuais
+
+[Haikei](https://haikei.app/) - Padrões modernos para backgrounds, customizáveis e com exporação em .png ou .svg
+
+[Hamburgers](https://jonsuh.com/hamburgers/) - Diversos estilos de menu mobile, com diferentes tipos de animação
+
+[Headless UI](https://headlessui.com/) - Diversos components de UI para React ou Vue
+
+[HTML Boilerplates](https://htmlboilerplates.com/) - Boilerplate para estrutura inicial do HTML
+
+[HTML Code Generator](https://www.html-code-generator.com/) - Diversos trechos de código em várias linguagens, bibliotecas e frameworks web
+
+[Layout patterns](https://web.dev/patterns/layout/) - Coleção de layouts comuns
+
+[Layoutit Grid](https://grid.layoutit.com/) - Playground interativo para aprender Grid e exportar o código para utilizar
+
+[MagicPattern](https://www.magicpattern.design/tools/css-backgrounds) - Backgrounds com padrões e totalmente customizáveis
+
+[Mesh Gradients](https://meshgradient.in/) - Backgrounds com padrões e exportação em .png
+
+[Neumorphic Generator](https://neumorphic.design/) - Gerador de estilos de neumorfismo para CSS
+
+[Neumorphism](https://neumorphism.io/) - Gerador de shadow com efeito de neumorfismo
+
+[Pattern Generator](https://doodad.dev/pattern-generator/) - Ferramenta para criar padrões únicos, contínuos e com direito de uso
+
+[Smooth Shadow](https://shadows.brumm.af/) - Gerador de box-shadow suave
+
+[The Component Gallery](https://component.gallery/) - Ferramenta de escalonamento de tipografia
+
+[UIverse](https://uiverse.io/) - Diversos elementos de UI para utilizar de forma gratuita
+
+[Web Code Tools](https://webcode.tools/) - Diversos tipos de geradores de código para Front End
+
+[Wicked Blocks](https://wickedblocks.dev/) - Coleção gratuita de blocos e componentes para Tailwind CSS
+
+[wweb.dev](https://wweb.dev/resources/animated-css-background-generator) - Background animados
+
+
+<hr>
+
 
 <!-- LICENSE -->
 
