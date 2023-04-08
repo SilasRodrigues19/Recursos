@@ -386,6 +386,8 @@ transparente
 
 [JSRobot](https://lab.reaal.me/jsrobot/) - Aprende lógica de programação em JavaScript
 
+[Open Game Art](https://opengameart.org/) - Assets gratuitos e livres de direitos para utilizar em jogos
+
 [Pixel Game](https://pixact.ly/) - Desenhe uma caixa que corresponda ao width e height informado
 
 [Screeps](https://screeps.com/) - MMO para programadores
