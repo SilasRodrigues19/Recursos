@@ -16,13 +16,12 @@
 
   <p align="center">
     <a href="https://github.com/SilasRodrigues19/Recursos/issues/new?template=suggesting.md&title=T%C3%ADtulo%20da%20sua%20sugest%C3%A3o">Sugerir</a>
-    &#124;	
+    &#124;
     <a href="../CONTRIBUTING.md">Contribuir</a>
     &#124;
     <a href="../CODE_OF_CONDUCT.md">Conduta</a>
   </p>
 </p>
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -90,7 +89,7 @@
 
 ## Ilustrações
 
-[Blush Design](https://blush.design/pt) - Ilustrações customizáveis 
+[Blush Design](https://blush.design/pt) - Ilustrações customizáveis
 
 [BURST](https://burst.shopify.com/) - Fotos gratuitas livres de direitos
 
@@ -100,7 +99,7 @@
 
 [Freepik](https://br.freepik.com/) - Repositório com imagens em diversos formatos, possui filtro para imagens com uso livre
 
-[HiClipart](https://www.hiclipart.com/) - Banco de imagens com fundo 
+[HiClipart](https://www.hiclipart.com/) - Banco de imagens com fundo
 transparente
 
 [Humaaans](https://www.humaaans.com/) - Coleção de ilustrações
@@ -160,7 +159,6 @@ transparente
 [Vector Mockups](https://www.pixsellz.io/vector-mockups-library) - Biblioteca de mockups para Figma
 
 [Worldvectorlogo](https://worldvectorlogo.com/) - Logos SVG de marcas famosas
-
 
 <hr>
 
@@ -262,7 +260,6 @@ transparente
 
 [Simple CSS](https://simplecss.eu/) - Gere media queries para qualquer tipo e tamanho de dispositivo
 
-
 <hr>
 
 ## Templates
@@ -272,7 +269,6 @@ transparente
 [Free CSS](https://www.free-css.com/) - Coleção de templates e layouts CSS
 
 [UIDeck](https://uideck.com/) - Landing pages, templates e UI kits
-
 
 <hr>
 
@@ -292,13 +288,15 @@ transparente
 
 <hr>
 
-## Geradores e trechos de códigos prontos
+## Geradores, trechos de códigos prontos e cheat sheets
 
 [30 Seconds of Code](https://www.30secondsofcode.org/) - Mais de 1100 trechos de código curtos para diversos tipos de necessidade
 
 [BGJar](https://bgjar.com/) - Gerador de background com padrões
 
 [Blobmaker](https://www.blobmaker.app/) - Crie shapes randomicos e exporte em .svg
+
+[cheatsheets.zip](https://cheatsheets.zip/) - Diversas dicas e exemplos de códigos segmentado por algumas categorias, como linguagens, sistemas operacionais, comandos linux, banco de dados, entre outros
 
 [CSS Generator Tool](https://cssgenerator.org/) - Gere efeitos de shadow, gradients, borders, filters, entre outros
 
@@ -318,7 +316,9 @@ transparente
 
 [Flexy Boxes](https://the-echoplex.net/flexyboxes/) - Playground para aprender Flexbox e exportar o código para utilizar
 
-[Free Frontend](https://freefrontend.com/) - Exemplos de código, tutoriais e artigos gratuitos de HTML, CSS e JavaScript (jQuery, React, Vue) 
+[Flowbite](https://flowbite.com/) - Mais de 600 componentes de UI feitos com classes utilitárias do Tailwind CSS
+
+[Free Frontend](https://freefrontend.com/) - Exemplos de código, tutoriais e artigos gratuitos de HTML, CSS e JavaScript (jQuery, React, Vue)
 
 [Get Waves](https://getwaves.io/) - Gerador de backgrounds de waves com exportação em .svg
 
@@ -368,6 +368,8 @@ transparente
 
 [CheckiO](https://checkio.org/) - Resolva desafios em TypeScript ou Python
 
+[css2wind](https://www.css2wind.com/) - Playground para treinar e aprender nome de classes do Tailwind CSS a partir de propriedades CSS informadas
+
 [CodeCombat](https://codecombat.com/play/) - Jogos para aprender Python e JavaScript
 
 [Codewars](https://www.codewars.com/join) - Várias tarefas em diferentes linguagens para praticar
@@ -395,7 +397,6 @@ transparente
 [Untrusted](https://alexnisnevich.github.io/untrusted/) - Jogo para implementar algoritmos em JavaScript
 
 <hr>
-
 
 <!-- LICENSE -->
 
